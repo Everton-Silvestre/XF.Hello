@@ -14,6 +14,7 @@ namespace XF.Hello
 	{
 		public ConfigPage ()
 		{
+
             BindingContext = App.ConfigModel;
             InitializeComponent ();
 
